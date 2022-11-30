@@ -1077,12 +1077,23 @@ outline: none;
   color: #757575;
 }
 
+.form-checkbox{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
 .deal-link{
   font-size: 14px;
   line-height: 1.71;
   
   letter-spacing: 0.03em;
   color: var(--accent-text-color);
+}
+
+.form-btn{
+  display: flex;
+  justify-content: center;
 }
 
 .submit-btn{
